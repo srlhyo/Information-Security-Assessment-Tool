@@ -1,6 +1,6 @@
 Structure of the questionnaire for the Database - Draft 1:
 
-Green:
+Green's Attributes:
 Training in the last 3 months
 Current Cyber Security Strategy
 Committed & Compliant behaviour
@@ -20,7 +20,7 @@ Clear and defined Incident Management Team
 Proactive & Preventative: threat hunting, breach attack simulation (BAS)
 Strong Information Security Management System (ISMS)
 
-Amber
+Amber's Attributes:
 Training in the last 6M
 Outdated CSS
 Compliant behaviour
@@ -40,7 +40,7 @@ Not defined IMT
 Reactive 
 Inadequate ISMS
 
-Red
+Red's Attributes:
 No training in 12
 No strategy
 Non-compliant 
@@ -60,7 +60,7 @@ No IMT
 Oblivious 
 No ISMS
 
-Questionnaire:
+Questionnaire to determine the values Green, Amber or Red:
 
 When was the last time of education and awareness training?
 How do you classify your Cyber Security Strategy?
