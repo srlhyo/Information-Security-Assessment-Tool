@@ -1,0 +1,83 @@
+Structure of the questionnaire for the Database - Draft 1:
+
+Green:
+Training in the last 3 months
+Current Cyber Security Strategy
+Committed & Compliant behaviour
+Assigned Key Decision Maker
+Full knowledge of hardware & software
+Current & updated inventory of IT
+Clear understanding of user policies
+Up to date IAM 
+Regular review of Privileged User
+Up to date Patch Management 
+Appropriate level of competence & resources
+Comprehensive induction
+Adequate cyber security budget
+Strong Password Management System
+Vetted supply chain
+Clear and defined Incident Management Team
+Proactive & Preventative: threat hunting, breach attack simulation (BAS)
+Strong Information Security Management System (ISMS)
+
+Amber
+Training in the last 6M
+Outdated CSS
+Compliant behaviour
+Unassigned KDM 
+Some knowledge 
+Outdated IT inventory
+Not fully aware of UP
+Outdated IAM
+Outdated PU 
+Outdated PM
+Inappropriate level 
+Inadequate induction
+Unspecified CSB
+Weak PAM
+Unregulated SC
+Not defined IMT
+Reactive 
+Inadequate ISMS
+
+Red
+No training in 12
+No strategy
+Non-compliant 
+No KDM
+No knowledge 
+No IT inventory
+No UP
+No IAM
+No PUA
+No PM
+No level of C&R
+No induction
+No CSB
+No PAM
+Unvetted SC
+No IMT
+Oblivious 
+No ISMS
+
+Questionnaire:
+
+When was the last time of education and awareness training?
+How do you classify your Cyber Security Strategy?
+What % of the workforce have completed Data Protection, GDPR training? What % of the workforce engage in extra activities?
+Do you  have a dedicated person responsible for cyber security? What is their position?
+Can you safely account for every hardware and software used within the organisation?
+Is the IT inventory up to date and documented?
+Do you have a user policy in place?
+Do you have an up to date IAM system in place?
+When was the last review of the Privileged User conducted?
+When was the last Patch Management conducted?
+How many IT staff are within the company? What is their level of experience?
+What is covered during the induction period?
+What % of your annual turnover is dedicated to cyber security?
+How often are users prompted to change passwords and what’s the requirement?
+Who are part of your supply chain. When were they last vetted?
+Who makes part of your incident management team, and their roles?
+What proactive measures are in place to prevent data breaches or cyber attacks?
+Do you have an ISMS in place?
+
