@@ -8,11 +8,11 @@ ISAT follows a traffic light model with three possible results: Green, Amber and
 
 ## How ISAT works
 
-No registration is required. The User fills in a brief questionnaire created to ascertain the level of preparedness and resilience of their organisation. The three possible results are Green, Amber and Red. Following the result, the user is advised accordingly. 
+ISAT is divided in two stages: For the first stage, there is no registration or sharing of sensitive information. The User simply fills in a brief questionnaire created to ascertain the level of preparedness and resilience of their organisation. The three possible results are Green, Amber and Red. Following the result, the user is advised accordingly. 
 
-If there is a security issue, the User is given the option to sign-in for a service to address the issue/(s) indentified.
+The second stage is in case there is a security issue. Here the User is given the option to sign-in for a service to address the issue/(s) indentified.
 
-If there are no issues, the User can sign-in to our Newsletter, or just leave the web application.
+If there are no issues, the User can sign-in to our Newsletter or just leave the web application.
 
 ## Contributors
 
