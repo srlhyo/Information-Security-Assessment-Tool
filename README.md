@@ -2,9 +2,13 @@
 
 **Version 1.0.0**
 
-ISAT is a web application tool that evaluates the level of preparedness and resilience existent within an organisation, followed by well-formed recommendations to  prevent and mitigate data breaches and cyber attacks.
+ISAT is an attractive, effective and intuitive web application tool that evaluates the level of preparedness and resilience existent within an organisation, followed by well-formed recommendations to  prevent and mitigate data breaches and cyber attacks.
 
 ISAT follows a traffic light model with three possible results: Green, Amber and Red. Green means that the organisation is well equipped to mitigate data breaches and cyber attacks. Amber means there is a heightened risk of data breaches and attacks. Whereas Red means that there are no cyber security preventative measures in place. Critically, the organisation is non-compliant with the law and regulatory requirements.
+
+## ISAT's Mission statement
+
+A bridge between your cyber security needs and industry leaders.
 
 ## How the web application works
 
@@ -23,6 +27,13 @@ If there are no issues, the User can sign-in to our Newsletter or just leave the
 ## Who are likely to benefit from using ISAT
 
 Key decision makers, including C-Level Executives, Senior Management and other assigned individuals with responsibility for information/cyber security, governance, risk managment and compliance.
+
+
+## Marketing Strategy
+
+- Set up a blog
+- Write articles for cyber and infosec magazines
+- Deliver a presentations at cyber and infosecevents
 
 ## Contributors
 
