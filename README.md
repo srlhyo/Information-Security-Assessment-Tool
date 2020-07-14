@@ -18,6 +18,13 @@ The second stage is in case there is a security issue. Here the User is given th
 
 If there are no issues, the User can sign-in to our Newsletter or just leave the web application.
 
+## User Story Draft 1
+
+## Sequence Diagram Draft 1
+
+## Database ER diagram Invest <https://app.lucidchart.com/invitations/accept/334330a9-9a9e-4947-89ad-4647fba2b1b9> 
+
+
 ## Development of the web application
 
 - Code based
