@@ -20,6 +20,8 @@ If there are no issues, the User can sign-in to our Newsletter or just leave the
 
 ## User Story Draft 1
 
+
+
 ## Sequence Diagram Draft 1
 
 ## Database ER diagram Invest 
