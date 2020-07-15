@@ -30,6 +30,8 @@ If there are no issues, the User can sign-in to our Newsletter or just leave the
 
 ## Sequence Diagram Draft 1
 
+- ( https://github.com/GRC-Cyber/Information-Security-Assessment-Tool/blob/master/Images/Sequence%20Diagram%20Draft%201.jpeg )
+
 ## Database ER diagram Invest 
 
 - <https://app.lucidchart.com/invitations/accept/334330a9-9a9e-4947-89ad-4647fba2b1b9> 
