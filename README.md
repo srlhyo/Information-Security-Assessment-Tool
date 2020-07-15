@@ -26,7 +26,9 @@ If there are no issues, the User can sign-in to our Newsletter or just leave the
 
 ## User Story Draft 1
 
-
+<p align="left">
+  ><img src="image/userstorydraft1.jpeg" alt="ISAT" /></a>
+</p>
 
 ## Sequence Diagram Draft 1
 
