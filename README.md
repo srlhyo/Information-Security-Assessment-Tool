@@ -26,9 +26,7 @@ If there are no issues, the User can sign-in to our Newsletter or just leave the
 
 ## User Story Draft 1
 
-<p align="left">
-  ><img src="image/userstorydraft1.jpeg" alt="ISAT" /></a>
-</p>
+- ( https://github.com/GRC-Cyber/Information-Security-Assessment-Tool/blob/master/Images/User%20Story%20Draft%201.jpeg )
 
 ## Sequence Diagram Draft 1
 
