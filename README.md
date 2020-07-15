@@ -10,7 +10,7 @@ ISAT helps an organisation preserve the integrity of the CIA triad model, by ass
 
 An attractive, effective and intuitive web application tool that evaluates the level of preparedness and resilience existent within an organisation, followed by well-formed recommendations to  prevent and mitigate data breaches and cyber attacks. In return, organisations become much better equipped to respond and mitigate effectively information security challenges and cyber attacks. 
 
-## ISAT's Mission statement
+## ISAT's Mission Statement
 
 A bridge between your cyber security needs and industry leaders.
 
