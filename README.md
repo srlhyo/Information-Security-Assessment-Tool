@@ -41,6 +41,7 @@ If there are no issues, the User can sign-in to our Newsletter or just leave the
 - Code based
 - Laravel framework
 - HTML
+- Visual Studio Code
 
 ## Who are likely to benefit from using ISAT
 
