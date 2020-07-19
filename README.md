@@ -24,15 +24,18 @@ The second stage is in case there is a security issue. Here the User is given th
 
 If there are no issues, the User can sign-in to our Newsletter or just leave the web application.
 
-## User Story Draft 1
+## UX Flowchart Draft 1
 
-- ( https://github.com/GRC-Cyber/Information-Security-Assessment-Tool/blob/master/Images/User%20Story%20Draft%201.jpeg )
+![](./images/ux-flow.jpeg)
 
-## Sequence Diagram Draft 1
+## Wire Flow Draft 1
 
-- ( https://github.com/GRC-Cyber/Information-Security-Assessment-Tool/blob/master/Images/Sequence%20Diagram%20Draft%201.jpeg )
+![](./images/wire-flow.jpeg)
 
-## Database ER diagram Invest 
+## ERD (Entity Relationship Diagram) Invest 
+
+![](./development/erd-invest.PNG)
+
 
 - <https://app.lucidchart.com/invitations/accept/334330a9-9a9e-4947-89ad-4647fba2b1b9> 
 
