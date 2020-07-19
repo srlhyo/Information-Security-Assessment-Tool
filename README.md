@@ -4,7 +4,11 @@
 
 In an increasingly and ubiquitous technological, connected, data driven world, data is fastly becoming the new currency. The value of an organisation is no longer determined by bricks and mortar assets but by the critical, sensitive and private information it holds. The value of data has increased exponentially, and technological advancements has meant that the storage of, and the access to the critical, sensitive and private information is done, almost in its entirety digitally and instantly. It follows, then, that in order for an organisation to keep its value, the confidentiality, the integrity and the availability (CIA triad model) of information must not be compromised.
 
-ISAT helps an organisation preserve the integrity of the CIA triad model, by assessing the level of cyber security preparedness, and resilience existent within the organisation. 
+The ISAT (Information Security Assessment Tool) helps an organisation preserve the integrity of the CIA triad model, by assessing the level of cyber security preparedness, and resilience existent within the organisation.
+
+ISAT follows a traffic light model where Green means that the organisation is well equipped to mitigate data breaches and cyber attacks. Amber means there is a heightened risk of data breaches and attacks. Whereas Red means that there are no cyber security preventative measures in place. Critically, the organisation is non-compliant with the law and regulatory requirements.
+
+By using the ISAT, organisations become much better equipped to respond and mitigate effectively information security challenges and cyber attacks. 
 
 ## ISAT Brief 
 
