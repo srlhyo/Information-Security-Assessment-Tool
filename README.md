@@ -28,6 +28,10 @@ The second stage is in case there is a security issue. Here the User is given th
 
 If there are no issues, the User can sign-in to our Newsletter or just leave the web application.
 
+## Who are likely to benefit from using ISAT
+
+Key decision makers, including C-Level Executives, Senior Management and other assigned individuals with responsibility for information/cyber security, governance, risk managment and compliance.
+
 ## UX Flowchart Draft 1
 
 ![](./images/ux-flow.jpeg)
@@ -49,9 +53,11 @@ If there are no issues, the User can sign-in to our Newsletter or just leave the
 - Laravel framework
 - HTML
 
-## Who are likely to benefit from using ISAT
+## Quality Control Procedures
 
-Key decision makers, including C-Level Executives, Senior Management and other assigned individuals with responsibility for information/cyber security, governance, risk managment and compliance.
+- Quality Policy
+- Quality Management Plan
+- Quality Review Plan
 
 ## Marketing Strategy
 
