@@ -1,5 +1,7 @@
 # Information-Security-Assessment-Tool
 
+![](./images/isat-logo-draft.svg)
+
 **Version 1.0.0**
 
 In an increasingly and ubiquitous technological, connected, data driven world, data is fastly becoming the new currency. The value of an organisation is no longer determined by bricks and mortar assets but by the critical, sensitive and private information it holds. The value of data has increased exponentially, and technological advancements has meant that the storage of, and the access to the critical, sensitive and private information is done, almost in its entirety digitally and instantly. It follows, then, that in order for an organisation to keep its value, the confidentiality, the integrity and the availability (CIA triad model) of information must not be compromised.
@@ -36,9 +38,9 @@ Key decision makers, including C-Level Executives, Senior Management and other a
 
 ![](./images/ux-flow.jpeg)
 
-## Wire Flow Draft 1
+## WireFlow Draft 1
 
-![](./images/wire-flow.jpeg)
+![](./images/wireflow.PNG)
 
 ## ERD (Entity Relationship Diagram) Invest 
 
