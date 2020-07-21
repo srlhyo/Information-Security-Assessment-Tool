@@ -40,7 +40,7 @@ Key decision makers, including C-Level Executives, Senior Management and other a
 
 ## WireFlow Draft 1
 
-![](./images/wireflow.png)
+![](./images/wireflow.PNG)
 
 ## ERD (Entity Relationship Diagram) Invest 
 
