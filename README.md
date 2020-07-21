@@ -65,7 +65,7 @@ Key decision makers, including C-Level Executives, Senior Management and other a
 
 - Set up a blog
 - Write articles for cyber and infosec magazines
-- Deliver a presentations at cyber and infosecevents
+- Deliver a presentations at cyber and infosec events
 
 ## Contributors
 
