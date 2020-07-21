@@ -1,6 +1,6 @@
 # Information-Security-Assessment-Tool
 
-![](./images/isat.svg)
+![](./images/isat-logo-draft.svg)
 
 **Version 1.0.0**
 
