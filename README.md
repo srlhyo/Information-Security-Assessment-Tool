@@ -1,6 +1,9 @@
-# Information-Security-Assessment-Tool
 
-![](./images/isat-logo-draft.svg)
+<p align="center">
+  <img src="./images/logo-2.svg" />
+</p>
+
+# Information-Security-Assessment-Tool
 
 **Version 1.0.0**
 
